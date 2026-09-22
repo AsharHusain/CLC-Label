@@ -1,0 +1,52 @@
+{
+  "video_id": "Raajyam_11",
+  "word": "Raajyam",
+  "fps": 54.013999938964844,
+  "duration_sec": 8.72,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.719961501318625,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.879
+        }
+      ],
+      "confidence": 0.879,
+      "detection_rate": 0.879
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.239,
+          "label": "Mudrakhyam",
+          "kind": "hold",
+          "confidence": 0.915
+        },
+        {
+          "start_sec": 7.239,
+          "end_sec": 7.776,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.679,
+          "separation": 0.0466,
+          "motion_agrees": true,
+          "motion_peak_ratio": 2.54
+        },
+        {
+          "start_sec": 7.776,
+          "end_sec": 8.72,
+          "label": "Anjali",
+          "kind": "hold",
+          "confidence": 0.915
+        }
+      ],
+      "confidence": 0.65,
+      "detection_rate": 0.915
+    }
+  },
+  "flags": []
+}

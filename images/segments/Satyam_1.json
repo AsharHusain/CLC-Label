@@ -1,0 +1,35 @@
+{
+  "video_id": "Satyam_1",
+  "word": "Satyam",
+  "fps": 30.0,
+  "duration_sec": 8.033,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.033333333333333,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.631
+        }
+      ],
+      "confidence": 0.631,
+      "detection_rate": 0.631
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.033333333333333,
+          "label": "Pallavam",
+          "kind": "hold",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.9,
+      "detection_rate": 0.9
+    }
+  },
+  "flags": []
+}

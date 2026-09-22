@@ -1,0 +1,38 @@
+{
+  "video_id": "Simham_4",
+  "word": "Simham",
+  "fps": 59.974998474121094,
+  "duration_sec": 3.985,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 3.984993848780626,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.51
+        }
+      ],
+      "confidence": 0.51,
+      "detection_rate": 0.51
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 3.984993848780626,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.586
+        }
+      ],
+      "confidence": 0.586,
+      "detection_rate": 0.586
+    }
+  },
+  "flags": [
+    "LEFT hand-detection rate 51.0% < 60%",
+    "RIGHT hand-detection rate 58.6% < 60%"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "Nee_Shringaaram_7",
+  "word": "Nee_Shringaaram",
+  "fps": 57.01499938964844,
+  "duration_sec": 14.207,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 14.206787839535826,
+          "label": "Kartareemukham",
+          "kind": "hold",
+          "confidence": 0.996
+        }
+      ],
+      "confidence": 0.996,
+      "detection_rate": 0.996
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 14.206787839535826,
+          "label": "Kartareemukham",
+          "kind": "hold",
+          "confidence": 0.964
+        }
+      ],
+      "confidence": 0.964,
+      "detection_rate": 0.964
+    }
+  },
+  "flags": []
+}

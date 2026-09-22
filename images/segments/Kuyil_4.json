@@ -1,0 +1,35 @@
+{
+  "video_id": "Kuyil_4",
+  "word": "Kuyil",
+  "fps": 57.029998779296875,
+  "duration_sec": 12.222,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 12.2216379961247,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 0.892
+        }
+      ],
+      "confidence": 0.892,
+      "detection_rate": 0.892
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 12.2216379961247,
+          "label": "Shukatundam",
+          "kind": "hold",
+          "confidence": 0.907
+        }
+      ],
+      "confidence": 0.907,
+      "detection_rate": 0.907
+    }
+  },
+  "flags": []
+}

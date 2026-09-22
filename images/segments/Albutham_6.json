@@ -1,0 +1,35 @@
+{
+  "video_id": "Albutham_6",
+  "word": "Albutham",
+  "fps": 59.965999603271484,
+  "duration_sec": 8.938,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.938398484910076,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.987
+        }
+      ],
+      "confidence": 0.987,
+      "detection_rate": 0.987
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.938398484910076,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.981
+        }
+      ],
+      "confidence": 0.981,
+      "detection_rate": 0.981
+    }
+  },
+  "flags": []
+}

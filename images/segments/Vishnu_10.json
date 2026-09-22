@@ -1,0 +1,35 @@
+{
+  "video_id": "Vishnu_10",
+  "word": "Vishnu",
+  "fps": 59.98099899291992,
+  "duration_sec": 5.368,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 5.368366739573785,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "detection_rate": 1.0
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 5.368366739573785,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "detection_rate": 1.0
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,54 @@
+{
+  "video_id": "Kashtam_3",
+  "word": "Kashtam",
+  "fps": 56.48400115966797,
+  "duration_sec": 9.472,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 9.472,
+          "label": "Hamsapaksham -> Soocheemukham (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.664
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 2.974,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.542
+        },
+        {
+          "start_sec": 2.974,
+          "end_sec": 3.275,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.651,
+          "separation": 0.0419,
+          "motion_agrees": true,
+          "motion_peak_ratio": 10.26
+        },
+        {
+          "start_sec": 3.275,
+          "end_sec": 9.472,
+          "label": "Soocheemukham",
+          "kind": "hold",
+          "confidence": 0.542
+        }
+      ],
+      "confidence": 0.502,
+      "detection_rate": 0.542
+    }
+  },
+  "flags": [
+    "RIGHT hand-detection rate 54.2% < 60%"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "video_id": "Vriksham_8",
+  "word": "Vriksham",
+  "fps": 59.97800064086914,
+  "duration_sec": 9.087,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.736,
+          "label": "Araalam",
+          "kind": "hold",
+          "confidence": 0.961
+        },
+        {
+          "start_sec": 6.736,
+          "end_sec": 6.853,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.627,
+          "separation": 0.0952,
+          "motion_agrees": false,
+          "motion_peak_ratio": 1.15
+        },
+        {
+          "start_sec": 6.853,
+          "end_sec": 9.087,
+          "label": "Soocheemukham",
+          "kind": "hold",
+          "confidence": 0.961
+        }
+      ],
+      "confidence": 0.615,
+      "detection_rate": 0.961
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 1.217,
+          "label": "Araalam",
+          "kind": "hold",
+          "confidence": 0.916
+        },
+        {
+          "start_sec": 1.217,
+          "end_sec": 2.201,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.919,
+          "separation": 0.0865,
+          "motion_agrees": true,
+          "motion_peak_ratio": 19.91
+        },
+        {
+          "start_sec": 2.201,
+          "end_sec": 9.087,
+          "label": "Soocheemukham",
+          "kind": "hold",
+          "confidence": 0.916
+        }
+      ],
+      "confidence": 0.88,
+      "detection_rate": 0.916
+    }
+  },
+  "flags": []
+}

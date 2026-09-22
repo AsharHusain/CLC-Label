@@ -1,0 +1,35 @@
+{
+  "video_id": "Nadakkuka_6",
+  "word": "Nadakkuka",
+  "fps": 30.0,
+  "duration_sec": 10.5,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 10.5,
+          "label": "Shikaram",
+          "kind": "hold",
+          "confidence": 0.933
+        }
+      ],
+      "confidence": 0.933,
+      "detection_rate": 0.933
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 10.5,
+          "label": "Shikaram",
+          "kind": "hold",
+          "confidence": 0.917
+        }
+      ],
+      "confidence": 0.917,
+      "detection_rate": 0.917
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,52 @@
+{
+  "video_id": "Aakasham_8",
+  "word": "Aakasham",
+  "fps": 59.97999954223633,
+  "duration_sec": 9.72,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.283,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.993
+        },
+        {
+          "start_sec": 0.283,
+          "end_sec": 1.951,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.2674,
+          "motion_agrees": true,
+          "motion_peak_ratio": 32.45
+        },
+        {
+          "start_sec": 1.951,
+          "end_sec": 9.72,
+          "label": "Ardhachandram",
+          "kind": "hold",
+          "confidence": 0.993
+        }
+      ],
+      "confidence": 0.997,
+      "detection_rate": 0.993
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 9.72,
+          "label": "Hamsapaksham -> Ardhachandram (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.997
+    }
+  },
+  "flags": []
+}

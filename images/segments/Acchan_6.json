@@ -1,0 +1,52 @@
+{
+  "video_id": "Acchan_6",
+  "word": "Acchan",
+  "fps": 30.0,
+  "duration_sec": 6.2,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.2,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.602
+        }
+      ],
+      "confidence": 0.602,
+      "detection_rate": 0.602
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 1.333,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.887
+        },
+        {
+          "start_sec": 1.333,
+          "end_sec": 2.2,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.889,
+          "separation": 0.0815,
+          "motion_agrees": true,
+          "motion_peak_ratio": 8.3
+        },
+        {
+          "start_sec": 2.2,
+          "end_sec": 6.2,
+          "label": "Mudrakhyam",
+          "kind": "hold",
+          "confidence": 0.887
+        }
+      ],
+      "confidence": 0.839,
+      "detection_rate": 0.887
+    }
+  },
+  "flags": []
+}

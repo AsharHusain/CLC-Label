@@ -1,0 +1,71 @@
+{
+  "video_id": "Kashtam_1",
+  "word": "Kashtam",
+  "fps": 59.96699905395508,
+  "duration_sec": 9.105,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.55,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.899
+        },
+        {
+          "start_sec": 0.55,
+          "end_sec": 2.351,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.865,
+          "separation": 0.0775,
+          "motion_agrees": true,
+          "motion_peak_ratio": 16.19
+        },
+        {
+          "start_sec": 2.351,
+          "end_sec": 9.105,
+          "label": "Soocheemukham",
+          "kind": "hold",
+          "confidence": 0.899
+        }
+      ],
+      "confidence": 0.821,
+      "detection_rate": 0.899
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.75,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.59
+        },
+        {
+          "start_sec": 0.75,
+          "end_sec": 2.368,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.734,
+          "separation": 0.0556,
+          "motion_agrees": true,
+          "motion_peak_ratio": 9.47
+        },
+        {
+          "start_sec": 2.368,
+          "end_sec": 9.105,
+          "label": "Soocheemukham",
+          "kind": "hold",
+          "confidence": 0.59
+        }
+      ],
+      "confidence": 0.583,
+      "detection_rate": 0.59
+    }
+  },
+  "flags": [
+    "RIGHT hand-detection rate 59.0% < 60%"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "video_id": "Chandran_9",
+  "word": "Chandran",
+  "fps": 59.97800064086914,
+  "duration_sec": 9.12,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.4,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 1.0
+        },
+        {
+          "start_sec": 0.4,
+          "end_sec": 0.484,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.972,
+          "separation": 0.1085,
+          "motion_agrees": true,
+          "motion_peak_ratio": 2.32
+        },
+        {
+          "start_sec": 0.484,
+          "end_sec": 9.12,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 0.972,
+      "detection_rate": 1.0
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.417,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 1.0
+        },
+        {
+          "start_sec": 0.417,
+          "end_sec": 0.5,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.901,
+          "separation": 0.0835,
+          "motion_agrees": true,
+          "motion_peak_ratio": 3.91
+        },
+        {
+          "start_sec": 0.5,
+          "end_sec": 9.12,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 0.901,
+      "detection_rate": 1.0
+    }
+  },
+  "flags": []
+}

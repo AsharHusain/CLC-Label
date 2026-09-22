@@ -1,0 +1,35 @@
+{
+  "video_id": "Baalan_7",
+  "word": "Baalan",
+  "fps": 58.768001556396484,
+  "duration_sec": 7.47,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.470051530997108,
+          "label": "Kartareemukham",
+          "kind": "hold",
+          "confidence": 0.989
+        }
+      ],
+      "confidence": 0.989,
+      "detection_rate": 0.989
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.470051530997108,
+          "label": "Kartareemukham",
+          "kind": "hold",
+          "confidence": 0.927
+        }
+      ],
+      "confidence": 0.927,
+      "detection_rate": 0.927
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "Amma_9",
+  "word": "Amma",
+  "fps": 59.96699905395508,
+  "duration_sec": 6.103,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.103356942552568,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 0.995
+        }
+      ],
+      "confidence": 0.995,
+      "detection_rate": 0.995
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.103356942552568,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 0.964
+        }
+      ],
+      "confidence": 0.964,
+      "detection_rate": 0.964
+    }
+  },
+  "flags": []
+}

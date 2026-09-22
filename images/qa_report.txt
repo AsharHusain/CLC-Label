@@ -1,0 +1,22 @@
+videos: 0 human-verified, 320 auto, 0 missing segments
+total segment rows: 895
+QA errors: 18
+
+  Aakasham_10/LEFT: segment 0 duration 0.083s < 0.1s
+  Aakasham_3/RIGHT: segment 1 duration 0.067s < 0.1s
+  Bhoomi_1/RIGHT: segment 1 duration 0.035s < 0.1s
+  Bhoomi_4/LEFT: segment 1 duration 0.016s < 0.1s
+  Bhoomi_4/RIGHT: segment 1 duration 0.017s < 0.1s
+  Bhoomi_8/LEFT: segment 0 duration 0.09s < 0.1s
+  Chandran_8/LEFT: segment 1 duration 0.084s < 0.1s
+  Chandran_9/LEFT: segment 1 duration 0.084s < 0.1s
+  Chandran_9/RIGHT: segment 1 duration 0.083s < 0.1s
+  Irikkuka_7/RIGHT: segment 1 duration 0.066s < 0.1s
+  Kaadu_10/RIGHT: segment 1 duration 0.017s < 0.1s
+  Kaadu_3/RIGHT: segment 1 duration 0.033s < 0.1s
+  Kaadu_4/RIGHT: segment 0 duration 0.083s < 0.1s
+  Kaadu_4/RIGHT: segment 1 duration 0.05s < 0.1s
+  Kaadu_8/RIGHT: segment 1 duration 0.066s < 0.1s
+  Kaadu_9/RIGHT: segment 0 duration 0.083s < 0.1s
+  Kashtam_7/RIGHT: segment 1 duration 0.034s < 0.1s
+  Vriksham_3/RIGHT: segment 0 duration 0.099s < 0.1s

@@ -1,0 +1,35 @@
+{
+  "video_id": "Samudram_7",
+  "word": "Samudram",
+  "fps": 59.97200012207031,
+  "duration_sec": 10.588,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 10.588274506561163,
+          "label": "Mudrakhyam",
+          "kind": "hold",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.94,
+      "detection_rate": 0.94
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 10.588274506561163,
+          "label": "Mudrakhyam",
+          "kind": "hold",
+          "confidence": 0.931
+        }
+      ],
+      "confidence": 0.931,
+      "detection_rate": 0.931
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "Bhoomi_5",
+  "word": "Bhoomi",
+  "fps": 30.0,
+  "duration_sec": 9.467,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 9.467,
+          "label": "Hamsapaksham -> Pataaka (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.982
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 9.467,
+          "label": "Hamsapaksham -> Pataaka (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.683
+    }
+  },
+  "flags": []
+}

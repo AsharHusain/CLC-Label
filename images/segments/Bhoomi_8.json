@@ -1,0 +1,52 @@
+{
+  "video_id": "Bhoomi_8",
+  "word": "Bhoomi",
+  "fps": 55.47800064086914,
+  "duration_sec": 9.355,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.09,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.988
+        },
+        {
+          "start_sec": 0.09,
+          "end_sec": 0.631,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.1817,
+          "motion_agrees": true,
+          "motion_peak_ratio": 15.52
+        },
+        {
+          "start_sec": 0.631,
+          "end_sec": 9.355,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.988
+        }
+      ],
+      "confidence": 0.994,
+      "detection_rate": 0.988
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 9.355,
+          "label": "Hamsapaksham -> Pataaka (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.68
+    }
+  },
+  "flags": []
+}

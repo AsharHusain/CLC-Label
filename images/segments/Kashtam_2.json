@@ -1,0 +1,52 @@
+{
+  "video_id": "Kashtam_2",
+  "word": "Kashtam",
+  "fps": 59.979000091552734,
+  "duration_sec": 9.387,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 3.234,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.844
+        },
+        {
+          "start_sec": 3.234,
+          "end_sec": 3.435,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.755,
+          "separation": 0.0591,
+          "motion_agrees": true,
+          "motion_peak_ratio": 5.34
+        },
+        {
+          "start_sec": 3.435,
+          "end_sec": 9.387,
+          "label": "Soocheemukham",
+          "kind": "hold",
+          "confidence": 0.844
+        }
+      ],
+      "confidence": 0.696,
+      "detection_rate": 0.844
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 9.387,
+          "label": "Hamsapaksham -> Soocheemukham (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.734
+    }
+  },
+  "flags": []
+}

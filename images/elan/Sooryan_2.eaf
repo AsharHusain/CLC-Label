@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ANNOTATION_DOCUMENT AUTHOR="pympi" DATE="2026-09-22T21:38:56.115226+05:30" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="file:///home/ash/Downloads/vidoes_cropped/Videos_Cropped/Videos_Cropped1/Sooryan/Sooryan_2.mp4" MIME_TYPE="video/mp4" />
+		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+		</HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4200" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="0" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4200" />
+		</TIME_ORDER>
+	<TIER TIER_ID="LEFT" LINGUISTIC_TYPE_REF="MudraType">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>Pataaka</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="RIGHT" LINGUISTIC_TYPE_REF="MudraType">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>Pataaka</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="MudraType" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" CONTROLLED_VOCABULARY_REF="MudraVocab" />
+	<LANGUAGE LANG_ID="und" />
+	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
+	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
+	<CONTROLLED_VOCABULARY CV_ID="MudraVocab">
+		<DESCRIPTION LANG_REF="und">Canonical Kathakali mudra names</DESCRIPTION>
+		<CV_ENTRY_ML CVE_ID="cve_0">
+			<CVE_VALUE LANG_REF="und">Pataaka</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_1">
+			<CVE_VALUE LANG_REF="und">Mudrakhyam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_2">
+			<CVE_VALUE LANG_REF="und">Katakam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_3">
+			<CVE_VALUE LANG_REF="und">Mushti</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_4">
+			<CVE_VALUE LANG_REF="und">Kartareemukham</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_5">
+			<CVE_VALUE LANG_REF="und">Shukatundam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_6">
+			<CVE_VALUE LANG_REF="und">Kapitthakam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_7">
+			<CVE_VALUE LANG_REF="und">Hamsapaksham</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_8">
+			<CVE_VALUE LANG_REF="und">Shikaram</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_9">
+			<CVE_VALUE LANG_REF="und">Hamsaasyam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_10">
+			<CVE_VALUE LANG_REF="und">Anjali</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_11">
+			<CVE_VALUE LANG_REF="und">Ardhachandram</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_12">
+			<CVE_VALUE LANG_REF="und">Mukuram</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_13">
+			<CVE_VALUE LANG_REF="und">Bhramaram</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_14">
+			<CVE_VALUE LANG_REF="und">Soocheemukham</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_15">
+			<CVE_VALUE LANG_REF="und">Pallavam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_16">
+			<CVE_VALUE LANG_REF="und">Thripataaka</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_17">
+			<CVE_VALUE LANG_REF="und">Mrigasheersham</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_18">
+			<CVE_VALUE LANG_REF="und">Sarpasirassu</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_19">
+			<CVE_VALUE LANG_REF="und">Vardhamaanakam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_20">
+			<CVE_VALUE LANG_REF="und">Araalam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_21">
+			<CVE_VALUE LANG_REF="und">Oornanabham</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_22">
+			<CVE_VALUE LANG_REF="und">Mukulam</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_23">
+			<CVE_VALUE LANG_REF="und">Katakaamukham</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_24">
+			<CVE_VALUE LANG_REF="und">transition</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_25">
+			<CVE_VALUE LANG_REF="und">no_mudra</CVE_VALUE>
+			</CV_ENTRY_ML>
+		<CV_ENTRY_ML CVE_ID="cve_26">
+			<CVE_VALUE LANG_REF="und">UNCERTAIN</CVE_VALUE>
+			</CV_ENTRY_ML>
+		</CONTROLLED_VOCABULARY>
+	</ANNOTATION_DOCUMENT>

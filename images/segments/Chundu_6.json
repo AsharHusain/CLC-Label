@@ -1,0 +1,35 @@
+{
+  "video_id": "Chundu_6",
+  "word": "Chundu",
+  "fps": 59.974998474121094,
+  "duration_sec": 7.853,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.853272396550941,
+          "label": "Vardhamaanakam",
+          "kind": "hold",
+          "confidence": 0.994
+        }
+      ],
+      "confidence": 0.994,
+      "detection_rate": 0.994
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.853272396550941,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 0.994
+        }
+      ],
+      "confidence": 0.994,
+      "detection_rate": 0.994
+    }
+  },
+  "flags": []
+}

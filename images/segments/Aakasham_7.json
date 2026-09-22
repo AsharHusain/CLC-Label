@@ -1,0 +1,69 @@
+{
+  "video_id": "Aakasham_7",
+  "word": "Aakasham",
+  "fps": 59.97200012207031,
+  "duration_sec": 7.187,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.55,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.998
+        },
+        {
+          "start_sec": 0.55,
+          "end_sec": 0.9,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.1686,
+          "motion_agrees": true,
+          "motion_peak_ratio": 19.15
+        },
+        {
+          "start_sec": 0.9,
+          "end_sec": 7.187,
+          "label": "Ardhachandram",
+          "kind": "hold",
+          "confidence": 0.998
+        }
+      ],
+      "confidence": 0.999,
+      "detection_rate": 0.998
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 1.267,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.993
+        },
+        {
+          "start_sec": 1.267,
+          "end_sec": 1.367,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.1405,
+          "motion_agrees": true,
+          "motion_peak_ratio": 4.81
+        },
+        {
+          "start_sec": 1.367,
+          "end_sec": 7.187,
+          "label": "Ardhachandram",
+          "kind": "hold",
+          "confidence": 0.993
+        }
+      ],
+      "confidence": 0.997,
+      "detection_rate": 0.993
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "Chandran_3",
+  "word": "Chandran",
+  "fps": 59.970001220703125,
+  "duration_sec": 6.653,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.653,
+          "label": "Mushti -> Hamsapaksham (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 1.0
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.653,
+          "label": "Mushti -> Hamsapaksham (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 1.0
+    }
+  },
+  "flags": []
+}

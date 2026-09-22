@@ -1,0 +1,35 @@
+{
+  "video_id": "Paadam_3",
+  "word": "Paadam",
+  "fps": 59.97200012207031,
+  "duration_sec": 7.187,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.186687106028128,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.919
+        }
+      ],
+      "confidence": 0.919,
+      "detection_rate": 0.919
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.186687106028128,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.956
+        }
+      ],
+      "confidence": 0.956,
+      "detection_rate": 0.956
+    }
+  },
+  "flags": []
+}

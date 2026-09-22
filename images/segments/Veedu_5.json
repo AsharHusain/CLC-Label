@@ -1,0 +1,35 @@
+{
+  "video_id": "Veedu_5",
+  "word": "Veedu",
+  "fps": 49.97999954223633,
+  "duration_sec": 4.202,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 4.201680710751837,
+          "label": "Kartareemukham",
+          "kind": "hold",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "detection_rate": 1.0
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 4.201680710751837,
+          "label": "Kartareemukham",
+          "kind": "hold",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "detection_rate": 1.0
+    }
+  },
+  "flags": []
+}

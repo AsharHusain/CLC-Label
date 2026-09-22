@@ -1,0 +1,69 @@
+{
+  "video_id": "Kaadu_4",
+  "word": "Kaadu",
+  "fps": 59.979000091552734,
+  "duration_sec": 9.353,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.203,
+          "label": "Araalam",
+          "kind": "hold",
+          "confidence": 0.986
+        },
+        {
+          "start_sec": 8.203,
+          "end_sec": 8.47,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.2039,
+          "motion_agrees": true,
+          "motion_peak_ratio": 4.33
+        },
+        {
+          "start_sec": 8.47,
+          "end_sec": 9.353,
+          "label": "Anjali",
+          "kind": "hold",
+          "confidence": 0.986
+        }
+      ],
+      "confidence": 0.993,
+      "detection_rate": 0.986
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 0.083,
+          "label": "Araalam",
+          "kind": "hold",
+          "confidence": 0.986
+        },
+        {
+          "start_sec": 0.083,
+          "end_sec": 0.133,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.555,
+          "separation": 0.0258,
+          "motion_agrees": true,
+          "motion_peak_ratio": 5.69
+        },
+        {
+          "start_sec": 0.133,
+          "end_sec": 9.353,
+          "label": "Anjali",
+          "kind": "hold",
+          "confidence": 0.986
+        }
+      ],
+      "confidence": 0.551,
+      "detection_rate": 0.986
+    }
+  },
+  "flags": []
+}

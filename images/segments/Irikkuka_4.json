@@ -1,0 +1,69 @@
+{
+  "video_id": "Irikkuka_4",
+  "word": "Irikkuka",
+  "fps": 59.9739990234375,
+  "duration_sec": 7.637,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 2.134,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.963
+        },
+        {
+          "start_sec": 2.134,
+          "end_sec": 2.901,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.1153,
+          "motion_agrees": true,
+          "motion_peak_ratio": 6.9
+        },
+        {
+          "start_sec": 2.901,
+          "end_sec": 7.637,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.963
+        }
+      ],
+      "confidence": 0.981,
+      "detection_rate": 0.963
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 2.201,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.948
+        },
+        {
+          "start_sec": 2.201,
+          "end_sec": 2.684,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.1171,
+          "motion_agrees": true,
+          "motion_peak_ratio": 6.32
+        },
+        {
+          "start_sec": 2.684,
+          "end_sec": 7.637,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.948
+        }
+      ],
+      "confidence": 0.974,
+      "detection_rate": 0.948
+    }
+  },
+  "flags": []
+}

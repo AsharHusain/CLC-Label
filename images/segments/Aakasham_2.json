@@ -1,0 +1,35 @@
+{
+  "video_id": "Aakasham_2",
+  "word": "Aakasham",
+  "fps": 26.617000579833984,
+  "duration_sec": 4.321,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 4.321,
+          "label": "Hamsapaksham -> Ardhachandram (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 1.0
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 4.321,
+          "label": "Hamsapaksham -> Ardhachandram (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 1.0
+    }
+  },
+  "flags": []
+}

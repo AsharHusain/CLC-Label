@@ -1,0 +1,69 @@
+{
+  "video_id": "Aana_7",
+  "word": "Aana",
+  "fps": 59.97700119018555,
+  "duration_sec": 8.803,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 3.168,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.953
+        },
+        {
+          "start_sec": 3.168,
+          "end_sec": 4.768,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.2085,
+          "motion_agrees": true,
+          "motion_peak_ratio": 7.8
+        },
+        {
+          "start_sec": 4.768,
+          "end_sec": 8.803,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.953
+        }
+      ],
+      "confidence": 0.976,
+      "detection_rate": 0.953
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 3.551,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.968
+        },
+        {
+          "start_sec": 3.551,
+          "end_sec": 4.785,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 1.0,
+          "separation": 0.2189,
+          "motion_agrees": true,
+          "motion_peak_ratio": 18.1
+        },
+        {
+          "start_sec": 4.785,
+          "end_sec": 8.803,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.968
+        }
+      ],
+      "confidence": 0.984,
+      "detection_rate": 0.968
+    }
+  },
+  "flags": []
+}

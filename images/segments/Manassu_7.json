@@ -1,0 +1,22 @@
+{
+  "video_id": "Manassu_7",
+  "word": "Manassu",
+  "fps": 59.974998474121094,
+  "duration_sec": 7.937,
+  "hands": {
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.937,
+          "label": "Hamsapaksham -> Mudrakhyam (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.958
+    }
+  },
+  "flags": []
+}

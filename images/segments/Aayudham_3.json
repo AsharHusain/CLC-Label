@@ -1,0 +1,35 @@
+{
+  "video_id": "Aayudham_3",
+  "word": "Aayudham",
+  "fps": 59.9640007019043,
+  "duration_sec": 8.388,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.388366254955802,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.996
+        }
+      ],
+      "confidence": 0.996,
+      "detection_rate": 0.996
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.388366254955802,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 0.978
+        }
+      ],
+      "confidence": 0.978,
+      "detection_rate": 0.978
+    }
+  },
+  "flags": []
+}

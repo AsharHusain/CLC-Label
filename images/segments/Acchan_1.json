@@ -1,0 +1,35 @@
+{
+  "video_id": "Acchan_1",
+  "word": "Acchan",
+  "fps": 27.92300033569336,
+  "duration_sec": 8.559,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.559252126444719,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.887
+        }
+      ],
+      "confidence": 0.887,
+      "detection_rate": 0.887
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.559,
+          "label": "Hamsapaksham -> Mudrakhyam (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.891
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,35 @@
+{
+  "video_id": "Shivan_9",
+  "word": "Shivan",
+  "fps": 59.97600173950195,
+  "duration_sec": 4.152,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 4.151660543853848,
+          "label": "Mrigasheersham",
+          "kind": "hold",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": 1.0,
+      "detection_rate": 1.0
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 4.151660543853848,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.988
+        }
+      ],
+      "confidence": 0.988,
+      "detection_rate": 0.988
+    }
+  },
+  "flags": []
+}

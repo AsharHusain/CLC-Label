@@ -1,0 +1,35 @@
+{
+  "video_id": "Sooryan_8",
+  "word": "Sooryan",
+  "fps": 59.972999572753906,
+  "duration_sec": 7.42,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.420005722077742,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.998
+        }
+      ],
+      "confidence": 0.998,
+      "detection_rate": 0.998
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.420005722077742,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.975
+        }
+      ],
+      "confidence": 0.975,
+      "detection_rate": 0.975
+    }
+  },
+  "flags": []
+}

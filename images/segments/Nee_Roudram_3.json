@@ -1,0 +1,37 @@
+{
+  "video_id": "Nee_Roudram_3",
+  "word": "Nee_Roudram",
+  "fps": 59.97700119018555,
+  "duration_sec": 8.887,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.886739740619417,
+          "label": "Soocheemukham",
+          "kind": "hold",
+          "confidence": 0.598
+        }
+      ],
+      "confidence": 0.598,
+      "detection_rate": 0.598
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.886739740619417,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.951
+        }
+      ],
+      "confidence": 0.951,
+      "detection_rate": 0.951
+    }
+  },
+  "flags": [
+    "LEFT hand-detection rate 59.8% < 60%"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "Bhoomi_1",
+  "word": "Bhoomi",
+  "fps": 28.40999984741211,
+  "duration_sec": 9.328,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 1.267,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.585
+        },
+        {
+          "start_sec": 1.267,
+          "end_sec": 2.358,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.843,
+          "separation": 0.0738,
+          "motion_agrees": true,
+          "motion_peak_ratio": 10.72
+        },
+        {
+          "start_sec": 2.358,
+          "end_sec": 9.328,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.585
+        }
+      ],
+      "confidence": 0.668,
+      "detection_rate": 0.585
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 7.181,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.328
+        },
+        {
+          "start_sec": 7.181,
+          "end_sec": 7.216,
+          "label": "transition",
+          "kind": "transition",
+          "confidence": 0.946,
+          "separation": 0.1859,
+          "motion_agrees": true,
+          "motion_peak_ratio": 2.17
+        },
+        {
+          "start_sec": 7.216,
+          "end_sec": 9.328,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.328
+        }
+      ],
+      "confidence": 0.628,
+      "detection_rate": 0.328
+    }
+  },
+  "flags": [
+    "LEFT hand-detection rate 58.5% < 60%",
+    "RIGHT hand-detection rate 32.8% < 60%"
+  ]
+}

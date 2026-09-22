@@ -1,0 +1,35 @@
+{
+  "video_id": "Raajyam_1",
+  "word": "Raajyam",
+  "fps": 58.0099983215332,
+  "duration_sec": 13.222,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 13.221858682855556,
+          "label": "Pataaka",
+          "kind": "hold",
+          "confidence": 0.807
+        }
+      ],
+      "confidence": 0.807,
+      "detection_rate": 0.807
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 13.222,
+          "label": "Mudrakhyam -> Anjali (auto-detect failed)",
+          "kind": "hold",
+          "confidence": 0.0
+        }
+      ],
+      "confidence": 0.0,
+      "detection_rate": 0.914
+    }
+  },
+  "flags": []
+}

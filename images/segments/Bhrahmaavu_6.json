@@ -1,0 +1,35 @@
+{
+  "video_id": "Bhrahmaavu_6",
+  "word": "Bhrahmaavu",
+  "fps": 29.09000015258789,
+  "duration_sec": 6.497,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.497077999608957,
+          "label": "Katakam",
+          "kind": "hold",
+          "confidence": 0.995
+        }
+      ],
+      "confidence": 0.995,
+      "detection_rate": 0.995
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 6.497077999608957,
+          "label": "Hamsapaksham",
+          "kind": "hold",
+          "confidence": 0.974
+        }
+      ],
+      "confidence": 0.974,
+      "detection_rate": 0.974
+    }
+  },
+  "flags": []
+}

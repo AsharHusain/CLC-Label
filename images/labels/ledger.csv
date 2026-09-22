@@ -1,0 +1,82 @@
+word,hand,seq_index,mudra,confidence,source,notes
+Aakasham,LEFT,0,Hamsapaksham,high,notebook,
+Aakasham,LEFT,1,Ardhachandram,high,notebook,
+Aakasham,RIGHT,0,Hamsapaksham,high,notebook,
+Aakasham,RIGHT,1,Ardhachandram,high,notebook,
+Aana,LEFT,0,Mushti,high,notebook,
+Aana,LEFT,1,Pataaka,high,notebook,
+Aana,RIGHT,0,Mushti,high,notebook,
+Aana,RIGHT,1,Pataaka,high,notebook,
+Aayudham,LEFT,0,Hamsapaksham,high,notebook,static: initial==final in notebook
+Aayudham,RIGHT,0,Katakam,high,notebook,static: initial==final in notebook
+Acchan,LEFT,0,Mushti,high,notebook,static: initial==final in notebook
+Acchan,RIGHT,0,Hamsapaksham,high,notebook,
+Acchan,RIGHT,1,Mudrakhyam,high,notebook,
+Albutham,LEFT,0,Hamsapaksham,high,notebook,static: initial==final in notebook
+Albutham,RIGHT,0,Hamsapaksham,high,notebook,static: initial==final in notebook
+Amma,LEFT,0,Katakam,high,notebook,static; notebook initial cell was dash (hand starts already in this pose)
+Amma,RIGHT,0,Katakam,high,notebook,static; notebook initial cell was dash (hand starts already in this pose)
+Baalan,LEFT,0,Kartareemukham,high,notebook,static; notebook initial cell was dash
+Baalan,RIGHT,0,Kartareemukham,high,notebook,static; notebook initial cell was dash
+Bhoomi,LEFT,0,Hamsapaksham,high,notebook,
+Bhoomi,LEFT,1,Pataaka,high,notebook,
+Bhoomi,RIGHT,0,Hamsapaksham,high,notebook,
+Bhoomi,RIGHT,1,Pataaka,high,notebook,
+Bhrahmaavu,LEFT,0,Katakam,high,notebook,static; notebook initial cell was dash
+Bhrahmaavu,RIGHT,0,Hamsapaksham,high,notebook,static; notebook initial cell was dash
+Chandran,LEFT,0,Mushti,high,notebook,
+Chandran,LEFT,1,Hamsapaksham,high,notebook,
+Chandran,RIGHT,0,Mushti,high,notebook,
+Chandran,RIGHT,1,Hamsapaksham,high,notebook,
+Chundu,LEFT,0,Vardhamaanakam,high,notebook,static: initial==final in notebook
+Chundu,RIGHT,0,Katakam,high,notebook,static: initial==final in notebook
+Gunam,LEFT,0,Mushti,high,notebook,static: initial==final in notebook
+Gunam,RIGHT,0,Mushti,high,notebook,static: initial==final in notebook
+Irikkuka,LEFT,0,Hamsapaksham,high,notebook,
+Irikkuka,LEFT,1,Mushti,high,notebook,
+Irikkuka,RIGHT,0,Hamsapaksham,high,notebook,
+Irikkuka,RIGHT,1,Mushti,high,notebook,
+Kaadu,LEFT,0,Araalam,high,notebook,
+Kaadu,LEFT,1,Anjali,high,notebook,
+Kaadu,RIGHT,0,Araalam,high,notebook,
+Kaadu,RIGHT,1,Anjali,high,notebook,
+Kashtam,LEFT,0,Hamsapaksham,medium,csv,no notebook row found; from mudras.csv per user decision; override if real notebook row located
+Kashtam,LEFT,1,Soocheemukham,medium,csv,no notebook row found; from mudras.csv per user decision; override if real notebook row located
+Kashtam,RIGHT,0,Hamsapaksham,medium,csv,no notebook row found; from mudras.csv per user decision; override if real notebook row located
+Kashtam,RIGHT,1,Soocheemukham,medium,csv,no notebook row found; from mudras.csv per user decision; override if real notebook row located
+Kuyil,LEFT,0,Katakam,high,notebook,static: initial==final in notebook
+Kuyil,RIGHT,0,Shukatundam,high,notebook,static: initial==final in notebook
+Manassu,LEFT,0,no_mudra,high,notebook,notebook has dash for both initial and final -- left hand shows no mudra for this word
+Manassu,RIGHT,0,Hamsapaksham,high,notebook,
+Manassu,RIGHT,1,Mudrakhyam,high,notebook,
+Nadakkuka,LEFT,0,Shikaram,high,notebook,static; notebook initial cell was dash
+Nadakkuka,RIGHT,0,Shikaram,high,notebook,static; notebook initial cell was dash
+Nee_Roudram,LEFT,0,Soocheemukham,high,notebook,static; notebook initial cell was dash
+Nee_Roudram,RIGHT,0,Hamsapaksham,high,notebook,static; notebook initial cell was dash
+Nee_Shringaaram,LEFT,0,Kartareemukham,low,notebook,AMBIGUOUS ROW -- notebook shows Init L=Kartareemukham/Final L=dash and Init R=dash/Final R=Kartareemukham (values appear swapped vs other rows). Encoded as static Kartareemukham both hands pending physical-notebook recheck.
+Nee_Shringaaram,RIGHT,0,Kartareemukham,low,notebook,AMBIGUOUS ROW -- see LEFT note; encoded as static Kartareemukham pending recheck.
+Paadam,LEFT,0,Pataaka,high,notebook,static; notebook initial cell was dash
+Paadam,RIGHT,0,Pataaka,high,notebook,static; notebook initial cell was dash
+Raajyam,LEFT,0,Pataaka,high,notebook,static; notebook initial cell was dash
+Raajyam,RIGHT,0,Mudrakhyam,high,notebook,
+Raajyam,RIGHT,1,Anjali,high,notebook,
+Samudram,LEFT,0,Mudrakhyam,high,notebook,static: initial==final in notebook
+Samudram,RIGHT,0,Mudrakhyam,high,notebook,static: initial==final in notebook
+Satyam,LEFT,0,Mushti,high,notebook,static: initial==final in notebook
+Satyam,RIGHT,0,Pallavam,high,notebook,static: initial==final in notebook
+Shivan,LEFT,0,Mrigasheersham,high,notebook,static; notebook initial cell was dash
+Shivan,RIGHT,0,Hamsapaksham,high,notebook,static; notebook initial cell was dash
+Simham,LEFT,0,Pataaka,high,notebook,static; notebook initial cell was dash
+Simham,RIGHT,0,Pataaka,high,notebook,static; notebook initial cell was dash
+Sooryan,LEFT,0,Pataaka,high,notebook,static: initial==final in notebook
+Sooryan,RIGHT,0,Pataaka,high,notebook,static: initial==final in notebook
+Svargam,LEFT,0,Mudrakhyam,high,notebook,static; notebook initial cell was dash
+Svargam,RIGHT,0,Mudrakhyam,high,notebook,static; notebook initial cell was dash
+Veedu,LEFT,0,Kartareemukham,high,notebook,static; notebook initial cell was dash
+Veedu,RIGHT,0,Kartareemukham,high,notebook,static; notebook initial cell was dash
+Vishnu,LEFT,0,Katakam,high,notebook,static; notebook initial cell was dash
+Vishnu,RIGHT,0,Katakam,high,notebook,static; notebook initial cell was dash
+Vriksham,LEFT,0,Araalam,high,notebook,positive control -- matches mudras.csv
+Vriksham,LEFT,1,Soocheemukham,high,notebook,positive control -- matches mudras.csv
+Vriksham,RIGHT,0,Araalam,high,notebook,positive control -- matches mudras.csv
+Vriksham,RIGHT,1,Soocheemukham,high,notebook,positive control -- matches mudras.csv

@@ -1,0 +1,35 @@
+{
+  "video_id": "Gunam_10",
+  "word": "Gunam",
+  "fps": 57.95600128173828,
+  "duration_sec": 5.97,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 5.970046109944843,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.965
+        }
+      ],
+      "confidence": 0.965,
+      "detection_rate": 0.965
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 5.970046109944843,
+          "label": "Mushti",
+          "kind": "hold",
+          "confidence": 0.991
+        }
+      ],
+      "confidence": 0.991,
+      "detection_rate": 0.991
+    }
+  },
+  "flags": []
+}

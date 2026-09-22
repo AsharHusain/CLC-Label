@@ -1,0 +1,35 @@
+{
+  "video_id": "Svargam_1",
+  "word": "Svargam",
+  "fps": 28.31999969482422,
+  "duration_sec": 8.828,
+  "hands": {
+    "LEFT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.827683710946161,
+          "label": "Mudrakhyam",
+          "kind": "hold",
+          "confidence": 0.892
+        }
+      ],
+      "confidence": 0.892,
+      "detection_rate": 0.892
+    },
+    "RIGHT": {
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 8.827683710946161,
+          "label": "Mudrakhyam",
+          "kind": "hold",
+          "confidence": 0.992
+        }
+      ],
+      "confidence": 0.992,
+      "detection_rate": 0.992
+    }
+  },
+  "flags": []
+}
