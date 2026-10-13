@@ -1,0 +1,5 @@
+# Python 3.12 or older (mediapipe 0.10.14 has no wheels for 3.13+)
+mediapipe==0.10.14
+opencv-python-headless
+numpy
+pympi-ling
